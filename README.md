@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Ledrix-Tech&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean,%20practical%20software&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Ledrix%20Tech&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B2B%20|%20B2C,%20SaaS%20CRM%20Software&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Builder+of+LeadHub%2C+POS+Software+%26+More;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I design and build full-stack products end-to-end — from backend systems and dashboards to point-of-sale software and business tools. Below is a curated look at what I'm actively building.
+When every brand dumps into the same pipeline, leads mix, a closer opens a book they should never see, and a chargeback lands on the client who didn’t take the payment. Ledrix keeps each client’s leads, access, and merchant money apart — under one agency workspace.
 
 <br/>
 
@@ -94,12 +94,12 @@ Point-of-sale system built for retail and small business checkout, inventory, an
 </td>
 <td width="55%" valign="top">
 
-### 🛒 NoveStore
+### 🛒 NovaStore
 An e-commerce storefront platform for browsing, managing, and selling products online.
 
 `E-commerce` `Storefront` `Web App`
 
-<a href="https://github.com/Ledrix-Tech/NoveStore"><img src="https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ledrix-Tech/NovaStore"><img src="https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -171,7 +171,7 @@ Core project / brand repository under the Ledrix ecosystem.
 
 `Core` `Ledrix` `Product`
 
-<a href="https://github.com/Ledrix-Tech/ledrix"><img src="https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ledrix-Tech/ledrix-v1"><img src="https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
