@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Ledrix%20Tech&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B2B%20|%20B2C,%20SaaS%20CRM%20Software&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4338ca&height=200&section=header&text=Ledrix-Tech&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean,%20practical%20software&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Builder+of+LeadHub%2C+POS+Software+%26+More;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+<img src="https://ledrix.co/front-assets/imgs/logo-ic.png" width="90"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4338CA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Founder+%40+Ledrix+CRM;Builder+of+LeadHub%2C+POS+Software+%26+More" alt="Typing SVG" />
 
 <br/>
 
+<a href="https://ledrix.co"><img src="https://img.shields.io/badge/Ledrix.co-4338CA?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-Ledrix--Tech-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-8B5CF6?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-4338CA?style=for-the-badge"/></a>
 
 </div>
 
@@ -15,7 +18,7 @@
 
 ## 👋 About Me
 
-When every brand dumps into the same pipeline, leads mix, a closer opens a book they should never see, and a chargeback lands on the client who didn’t take the payment. Ledrix keeps each client’s leads, access, and merchant money apart — under one agency workspace.
+I design and build full-stack products end-to-end — from CRMs and dashboards to point-of-sale software and business tools. I'm the founder of **[Ledrix CRM](https://ledrix.co)**, a multi-tenant CRM built for agencies running multiple client brands. Below is a curated look at what I'm actively building.
 
 <br/>
 
@@ -36,14 +39,14 @@ When every brand dumps into the same pipeline, leads mix, a closer opens a book 
 <table>
 <tr>
 <td width="45%">
-<img src="https://via.placeholder.com/500x300/0d1117/8B5CF6?text=Ledrix+Enterprise" width="100%" />
+<img src="https://via.placeholder.com/500x300/0d1117/4338CA?text=Ledrix+Enterprise" width="100%" />
 </td>
 <td width="55%" valign="top">
 
 ### 🏢 Ledrix-Enterprise
-Enterprise-grade platform built for scalable business operations and internal tooling.
+Enterprise-scale build of Ledrix CRM — isolates each client brand's leads, closer access, and merchant payments under one agency workspace.
 
-`Full-Stack` `Enterprise` `Dashboard`
+`Multi-Tenant` `CRM` `Enterprise`
 
 <a href="https://github.com/Ledrix-Tech/Ledrix-Enterprise"><img src="https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
 
@@ -54,7 +57,7 @@ Enterprise-grade platform built for scalable business operations and internal to
 <table>
 <tr>
 <td width="45%">
-<img src="https://via.placeholder.com/500x300/0d1117/8B5CF6?text=LeadHub" width="100%" />
+<img src="https://via.placeholder.com/500x300/0d1117/4338CA?text=LeadHub" width="100%" />
 </td>
 <td width="55%" valign="top">
 
@@ -72,7 +75,7 @@ A lead management system for tracking, organizing, and converting sales leads ef
 <table>
 <tr>
 <td width="45%">
-<img src="https://via.placeholder.com/500x300/0d1117/8B5CF6?text=POS+Software" width="100%" />
+<img src="https://via.placeholder.com/500x300/0d1117/4338CA?text=POS+Software" width="100%" />
 </td>
 <td width="55%" valign="top">
 
@@ -90,16 +93,16 @@ Point-of-sale system built for retail and small business checkout, inventory, an
 <table>
 <tr>
 <td width="45%">
-<img src="https://via.placeholder.com/500x300/0d1117/8B5CF6?text=NoveStore" width="100%" />
+<img src="https://via.placeholder.com/500x300/0d1117/4338CA?text=NoveStore" width="100%" />
 </td>
 <td width="55%" valign="top">
 
-### 🛒 NovaStore
+### 🛒 NoveStore
 An e-commerce storefront platform for browsing, managing, and selling products online.
 
 `E-commerce` `Storefront` `Web App`
 
-<a href="https://github.com/Ledrix-Tech/NovaStore"><img src="https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ledrix-Tech/NoveStore"><img src="https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -108,7 +111,7 @@ An e-commerce storefront platform for browsing, managing, and selling products o
 <table>
 <tr>
 <td width="45%">
-<img src="https://via.placeholder.com/500x300/0d1117/8B5CF6?text=Real+Estate" width="100%" />
+<img src="https://via.placeholder.com/500x300/0d1117/4338CA?text=Real+Estate" width="100%" />
 </td>
 <td width="55%" valign="top">
 
@@ -126,7 +129,7 @@ A property listing and management platform for browsing, listing, and managing r
 <table>
 <tr>
 <td width="45%">
-<img src="https://via.placeholder.com/500x300/0d1117/8B5CF6?text=HRM" width="100%" />
+<img src="https://via.placeholder.com/500x300/0d1117/4338CA?text=HRM" width="100%" />
 </td>
 <td width="55%" valign="top">
 
@@ -144,7 +147,7 @@ A human resource management system for handling employee records, payroll, and H
 <table>
 <tr>
 <td width="45%">
-<img src="https://via.placeholder.com/500x300/0d1117/8B5CF6?text=Portfolio" width="100%" />
+<img src="https://via.placeholder.com/500x300/0d1117/4338CA?text=Portfolio" width="100%" />
 </td>
 <td width="55%" valign="top">
 
@@ -162,16 +165,16 @@ My personal developer portfolio showcasing projects, skills, and experience.
 <table>
 <tr>
 <td width="45%">
-<img src="https://via.placeholder.com/500x300/0d1117/8B5CF6?text=Ledrix" width="100%" />
+<img src="https://via.placeholder.com/500x300/0d1117/4338CA?text=Ledrix+CRM" width="100%" />
 </td>
 <td width="55%" valign="top">
 
 ### ⚙️ Ledrix
-Core project / brand repository under the Ledrix ecosystem.
+Core repo for **[Ledrix CRM](https://ledrix.co)** — the sales CRM agencies use to keep client brands, leads, and payments from mixing.
 
-`Core` `Ledrix` `Product`
+`CRM` `SaaS` `Core Product`
 
-<a href="https://github.com/Ledrix-Tech/ledrix-v1"><img src="https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Ledrix-Tech/ledrix"><img src="https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
