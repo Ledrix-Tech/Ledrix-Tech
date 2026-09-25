@@ -108,7 +108,7 @@ DHANG shop front — browse custom repatched tees and drops, filter collections,
 <td width="50%" valign="top">
 
 <a href="https://github.com/Ledrix-Tech/real-estate">
-<img src="https://raw.githubusercontent.com/Ledrix-Tech/Ledrix-Tech/main/assets/real-estate.png" width="100%" style="border-radius:8px"/>
+<img src="https://raw.githubusercontent.com/Ledrix-Tech/Ledrix-Tech/main/assets/real-state.png" width="100%" style="border-radius:8px"/>
 </a>
 
 **real-estate** — Property platform
