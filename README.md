@@ -73,7 +73,7 @@ Track, organize, and convert sales leads with a focused pipeline built for close
 <td width="50%" valign="top">
 
 <a href="https://github.com/Ledrix-Tech/pos-software">
-<img src="https://raw.githubusercontent.com/Ledrix-Tech/Ledrix-Tech/main/assets/pos-software.png" width="100%" style="border-radius:8px"/>
+<img src="https://raw.githubusercontent.com/Ledrix-Tech/Ledrix-Tech/main/assets/pos.png" width="100%" style="border-radius:8px"/>
 </a>
 
 **pos-software** — Point of Sale
@@ -89,7 +89,7 @@ Shoe Store POS — a shop-counter register for scanning, collecting payment, and
 <td width="50%" valign="top">
 
 <a href="https://github.com/Ledrix-Tech/NovaStore">
-<img src="https://raw.githubusercontent.com/Ledrix-Tech/Ledrix-Tech/main/assets/novastore.png" width="100%" style="border-radius:8px"/>
+<img src="https://raw.githubusercontent.com/Ledrix-Tech/Ledrix-Tech/main/assets/dhang.png" width="100%" style="border-radius:8px"/>
 </a>
 
 **NovaStore** — E-commerce platform
