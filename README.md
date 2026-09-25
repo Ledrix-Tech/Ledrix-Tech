@@ -11,17 +11,29 @@
 <a href="https://www.instagram.com/ledrixtech/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=6366F1"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Status-Online-000000?style=for-the-badge&logo=statuspage&logoColor=6366F1"/></a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Founder%20%26%20CEO-6366F1?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Senior%20Web%20Enthusiast-6366F1?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Developer-6366F1?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/7%20Active%20Repos-6366F1?style=flat-square&labelColor=000000"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ledrix-Tech&label=Profile%20Views&color=6366F1&style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/Ledrix-Tech?label=Followers&style=flat-square&color=6366F1&labelColor=000000"/>
+
 </div>
 
 <br/>
 
-## `$ whoami`
+## 🧑‍💻 `$ whoami`
 
 I'm **Zeeshan Asghar**, Founder & CEO of **[Ledrix](https://ledrix.co)** — a multi-tenant CRM that keeps agency client brands, leads, and payments from mixing. Senior Web Enthusiast, full-stack builder of CRMs, dashboards, POS systems, and e-commerce platforms. Below are the products I'm actively shipping.
 
 <br/>
 
-## `$ stack --list`
+## 🛠️ `$ stack --list`
 
 <div align="center">
 
@@ -31,7 +43,7 @@ I'm **Zeeshan Asghar**, Founder & CEO of **[Ledrix](https://ledrix.co)** — a m
 
 <br/>
 
-## `$ ls repos/`
+## 📦 `$ ls repos/`
 
 <table width="100%">
 <tr>
@@ -48,13 +60,13 @@ Multi-tenant CRM that isolates each client brand's leads, seller access, and Str
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=Ledrix-Tech&theme=tokyonight&hide_border=true&bg_color=000000&title_color=6366F1" width="100%"/>
 
-<a href="https://ledrix.co"><img src="https://img.shields.io/badge/Live%20Site-4338CA?style=flat-square&logo=googlechrome&logoColor=white"/></a> <a href="https://github.com/Ledrix-Tech/Ledrix-Tech"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
+<a href="https://ledrix.co"><img src="https://img.shields.io/badge/Live%20Site-000000?style=flat-square&logo=googlechrome&logoColor=6366F1"/></a> <a href="https://github.com/Ledrix-Tech/Ledrix-Tech"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Ledrix-Tech/LeadHub">
-<img src="https://via.placeholder.com/500x280/0d1117/6366F1?text=LeadHub" width="100%" style="border-radius:8px"/>
+<img src="https://via.placeholder.com/500x280/000000/6366F1?text=LeadHub" width="100%" style="border-radius:8px"/>
 </a>
 
 **LeadHub** — Lead management
@@ -162,7 +174,7 @@ My developer portfolio — work, resume, services, and reviews for freelance and
 
 <br/>
 
-## `$ git log --graph`
+## 📊 `$ git log --graph`
 
 <div align="center">
 
@@ -172,7 +184,7 @@ My developer portfolio — work, resume, services, and reviews for freelance and
 
 <br/>
 
-## `$ stats --fetch`
+## 📈 `$ stats --fetch`
 
 <div align="center">
 
@@ -183,11 +195,11 @@ My developer portfolio — work, resume, services, and reviews for freelance and
 
 <br/>
 
-## `$ contact --open`
+## 📬 `$ contact --open`
 
 <div align="center">
 
-<a href="https://ledrix.co/contact-us"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=maildotru&logoColor=6366F1"/></a>
+<a href="https://ledrix.co/contact-us"><img src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=6366F1"/></a>
 <a href="https://www.linkedin.com/company/ledrix-technologies"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6366F1"/></a>
 <a href="https://www.instagram.com/ledrixtech/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=6366F1"/></a>
 <a href="https://www.facebook.com/profile.php?id=100063861860966"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=6366F1"/></a>
