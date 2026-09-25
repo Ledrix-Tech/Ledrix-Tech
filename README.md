@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e1b4b,100:4338ca&height=210&section=header&text=Ledrix%20Tech&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40%20Ledrix%20CRM%20%C2%B7%20Full-Stack%20Developer&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e1b4b,100:4338ca&height=210&section=header&text=Zeeshan%20Asghar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20Ledrix%20%C2%B7%20Senior%20Web%20Enthusiast&descAlignY=55&descSize=17" width="100%"/>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Ledrix+CRM+for+multi-brand+agencies;Full-Stack+Developer+%7C+8+Active+Repositories;Turning+Products+Into+Working+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=Founder+%26+CEO+%40+Ledrix+CRM;Senior+Web+Enthusiast+%7C+Full-Stack+Developer;Turning+Products+Into+Working+Systems" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -18,7 +17,7 @@
 
 ## About
 
-I build full-stack products end-to-end — CRMs, dashboards, POS systems, and business tools. I'm the founder of **[Ledrix CRM](https://ledrix.co)**, a multi-tenant CRM that keeps agency client brands, leads, and payments from mixing. Below are the projects I'm actively shipping.
+I'm **Zeeshan Asghar**, Founder & CEO of **[Ledrix](https://ledrix.co)** — a multi-tenant CRM that keeps agency client brands, leads, and payments from mixing. Senior Web Enthusiast, full-stack builder of CRMs, dashboards, POS systems, and e-commerce platforms. Below are the products I'm actively shipping.
 
 <br/>
 
@@ -38,7 +37,9 @@ I build full-stack products end-to-end — CRMs, dashboards, POS systems, and bu
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/Ledrix-Tech/ledrix">
 <img src="https://ledrix.co/front-assets/media/ledrix-thumb.PNG" width="100%" style="border-radius:8px"/>
+</a>
 
 **Ledrix** — Core SaaS product
 Multi-tenant CRM that isolates each client brand's leads, seller access, and Stripe/PayPal merchant — one agency workspace, zero mixing.
@@ -47,12 +48,14 @@ Multi-tenant CRM that isolates each client brand's leads, seller access, and Str
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=ledrix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="100%"/>
 
-<a href="https://github.com/Ledrix-Tech/ledrix"><img src="https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
+<a href="https://ledrix.co"><img src="https://img.shields.io/badge/Live%20Site-4338CA?style=flat-square&logo=googlechrome&logoColor=white"/></a> <a href="https://github.com/Ledrix-Tech/ledrix"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/Ledrix-Tech/Ledrix-Enterprise">
 <img src="https://via.placeholder.com/500x280/0d1117/6366F1?text=Ledrix+Enterprise" width="100%" style="border-radius:8px"/>
+</a>
 
 **Ledrix-Enterprise** — Enterprise build
 Scaled version of Ledrix CRM for larger agencies running many brands, closers, and merchant accounts at once.
@@ -61,7 +64,7 @@ Scaled version of Ledrix CRM for larger agencies running many brands, closers, a
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=Ledrix-Enterprise&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="100%"/>
 
-<a href="https://github.com/Ledrix-Tech/Ledrix-Enterprise"><img src="https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
+<a href="https://github.com/Ledrix-Tech/Ledrix-Enterprise"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
 </td>
 </tr>
@@ -69,7 +72,9 @@ Scaled version of Ledrix CRM for larger agencies running many brands, closers, a
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/Ledrix-Tech/LeadHub">
 <img src="https://via.placeholder.com/500x280/0d1117/6366F1?text=LeadHub" width="100%" style="border-radius:8px"/>
+</a>
 
 **LeadHub** — Lead management
 Track, organize, and convert sales leads with a focused pipeline built for closers.
@@ -78,21 +83,23 @@ Track, organize, and convert sales leads with a focused pipeline built for close
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=LeadHub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="100%"/>
 
-<a href="https://github.com/Ledrix-Tech/LeadHub"><img src="https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
+<a href="https://github.com/Ledrix-Tech/LeadHub"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://via.placeholder.com/500x280/0d1117/6366F1?text=POS+Software" width="100%" style="border-radius:8px"/>
+<a href="https://github.com/Ledrix-Tech/pos-software">
+<img src="assets/pos-software.png" width="100%" style="border-radius:8px"/>
+</a>
 
 **pos-software** — Point of Sale
-Checkout, inventory, and sales tracking built for retail and small business.
+Shoe Store POS — a shop-counter register for scanning, collecting payment, and tracking till/stock per shop location.
 
 `POS` `Retail` `Inventory`
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=pos-software&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="100%"/>
 
-<a href="https://github.com/Ledrix-Tech/pos-software"><img src="https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
+<a href="https://github.com/Ledrix-Tech/pos-software"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
 </td>
 </tr>
@@ -100,30 +107,34 @@ Checkout, inventory, and sales tracking built for retail and small business.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://via.placeholder.com/500x280/0d1117/6366F1?text=NoveStore" width="100%" style="border-radius:8px"/>
+<a href="https://github.com/Ledrix-Tech/NoveStore">
+<img src="assets/novestore.png" width="100%" style="border-radius:8px"/>
+</a>
 
 **NoveStore** — E-commerce platform
-Storefront for browsing, managing, and selling products online.
+DHANG shop front — browse custom repatched tees and drops, filter collections, and checkout with COD.
 
 `E-commerce` `Storefront` `Web App`
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=NoveStore&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="100%"/>
 
-<a href="https://github.com/Ledrix-Tech/NoveStore"><img src="https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
+<a href="https://github.com/Ledrix-Tech/NoveStore"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://via.placeholder.com/500x280/0d1117/6366F1?text=Real+Estate" width="100%" style="border-radius:8px"/>
+<a href="https://github.com/Ledrix-Tech/real-estate">
+<img src="assets/real-estate.png" width="100%" style="border-radius:8px"/>
+</a>
 
 **real-estate** — Property platform
-Listing, browsing, and managing real estate properties end-to-end.
+Zed Properties — an independent property dealer site for browsing listings and talking directly to the dealer.
 
 `Real Estate` `Listings` `Full-Stack`
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=real-estate&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="100%"/>
 
-<a href="https://github.com/Ledrix-Tech/real-estate"><img src="https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
+<a href="https://github.com/Ledrix-Tech/real-estate"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
 </td>
 </tr>
@@ -131,30 +142,34 @@ Listing, browsing, and managing real estate properties end-to-end.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://via.placeholder.com/500x280/0d1117/6366F1?text=HRM" width="100%" style="border-radius:8px"/>
+<a href="https://github.com/Ledrix-Tech/hrm">
+<img src="assets/hrm.png" width="100%" style="border-radius:8px"/>
+</a>
 
 **hrm** — HR management
-Employee records, payroll, and HR workflows in one system.
+Zentra HRM — employee lifecycle, attendance & leave, and payroll-ready structures in one admin workspace.
 
 `HR` `Management` `Enterprise`
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=hrm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="100%"/>
 
-<a href="https://github.com/Ledrix-Tech/hrm"><img src="https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
+<a href="https://github.com/Ledrix-Tech/hrm"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://via.placeholder.com/500x280/0d1117/6366F1?text=Portfolio" width="100%" style="border-radius:8px"/>
+<a href="https://github.com/Ledrix-Tech/portfolio">
+<img src="assets/portfolio.png" width="100%" style="border-radius:8px"/>
+</a>
 
 **portfolio** — Personal site
-My developer portfolio showcasing projects, skills, and experience.
+My developer portfolio — work, resume, services, and reviews for freelance and studio projects.
 
 `Portfolio` `Frontend` `Personal`
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1" width="100%"/>
 
-<a href="https://github.com/Ledrix-Tech/portfolio"><img src="https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
+<a href="https://github.com/Ledrix-Tech/portfolio"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
 </td>
 </tr>
