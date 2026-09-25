@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a1a,100:1e1b4b&height=210&section=header&text=Zeeshan%20Asghar&fontSize=48&fontColor=6366F1&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20Ledrix%20%C2%B7%20Senior%20Web%20Enthusiast&descAlignY=55&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=root%40zeeshan%3A~%24+whoami;Founder+%26+CEO+%40+Ledrix+CRM;Senior+Web+Enthusiast+%7C+Full-Stack+Dev;%3E+status%3A+ONLINE_AND_SHIPPING" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Ledrix-Tech/Ledrix-Tech/main/assets/banner.png" width="100%"/>
 
 <br/><br/>
 
@@ -58,7 +56,7 @@ Multi-tenant CRM that isolates each client brand's leads, seller access, and Str
 
 `CRM` `SaaS` `Multi-Tenant`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=Ledrix-Tech&theme=tokyonight&hide_border=true&bg_color=000000&title_color=6366F1" width="100%"/>
+<img src="https://img.shields.io/github/languages/top/Ledrix-Tech/Ledrix-Tech?style=flat-square&color=6366F1&labelColor=000000"/> <img src="https://img.shields.io/github/last-commit/Ledrix-Tech/Ledrix-Tech?style=flat-square&color=6366F1&labelColor=000000"/>
 
 <a href="https://ledrix.co"><img src="https://img.shields.io/badge/Live%20Site-000000?style=flat-square&logo=googlechrome&logoColor=6366F1"/></a> <a href="https://github.com/Ledrix-Tech/Ledrix-Tech"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
@@ -66,7 +64,7 @@ Multi-tenant CRM that isolates each client brand's leads, seller access, and Str
 <td width="50%" valign="top">
 
 <a href="https://github.com/Ledrix-Tech/LeadHub">
-<img src="https://via.placeholder.com/500x280/000000/6366F1?text=LeadHub" width="100%" style="border-radius:8px"/>
+<img src="https://placehold.co/500x280/000000/6366F1?text=LeadHub&font=roboto" width="100%" style="border-radius:8px"/>
 </a>
 
 **LeadHub** — Lead management
@@ -74,7 +72,7 @@ Track, organize, and convert sales leads with a focused pipeline built for close
 
 `CRM` `Sales` `Pipeline`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=LeadHub&theme=tokyonight&hide_border=true&bg_color=000000&title_color=6366F1" width="100%"/>
+<img src="https://img.shields.io/github/languages/top/Ledrix-Tech/LeadHub?style=flat-square&color=6366F1&labelColor=000000"/> <img src="https://img.shields.io/github/last-commit/Ledrix-Tech/LeadHub?style=flat-square&color=6366F1&labelColor=000000"/>
 
 <a href="https://github.com/Ledrix-Tech/LeadHub"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
@@ -93,7 +91,7 @@ Shoe Store POS — a shop-counter register for scanning, collecting payment, and
 
 `POS` `Retail` `Inventory`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=pos-software&theme=tokyonight&hide_border=true&bg_color=000000&title_color=6366F1" width="100%"/>
+<img src="https://img.shields.io/github/languages/top/Ledrix-Tech/pos-software?style=flat-square&color=6366F1&labelColor=000000"/> <img src="https://img.shields.io/github/last-commit/Ledrix-Tech/pos-software?style=flat-square&color=6366F1&labelColor=000000"/>
 
 <a href="https://github.com/Ledrix-Tech/pos-software"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
@@ -109,7 +107,7 @@ DHANG shop front — browse custom repatched tees and drops, filter collections,
 
 `E-commerce` `Storefront` `Web App`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=NovaStore&theme=tokyonight&hide_border=true&bg_color=000000&title_color=6366F1" width="100%"/>
+<img src="https://img.shields.io/github/languages/top/Ledrix-Tech/NovaStore?style=flat-square&color=6366F1&labelColor=000000"/> <img src="https://img.shields.io/github/last-commit/Ledrix-Tech/NovaStore?style=flat-square&color=6366F1&labelColor=000000"/>
 
 <a href="https://github.com/Ledrix-Tech/NovaStore"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
@@ -128,7 +126,7 @@ Zed Properties — an independent property dealer site for browsing listings and
 
 `Real Estate` `Listings` `Full-Stack`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=real-estate&theme=tokyonight&hide_border=true&bg_color=000000&title_color=6366F1" width="100%"/>
+<img src="https://img.shields.io/github/languages/top/Ledrix-Tech/real-estate?style=flat-square&color=6366F1&labelColor=000000"/> <img src="https://img.shields.io/github/last-commit/Ledrix-Tech/real-estate?style=flat-square&color=6366F1&labelColor=000000"/>
 
 <a href="https://github.com/Ledrix-Tech/real-estate"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
@@ -144,7 +142,7 @@ Zentra HRM — employee lifecycle, attendance & leave, and payroll-ready structu
 
 `HR` `Management` `Enterprise`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=hrm&theme=tokyonight&hide_border=true&bg_color=000000&title_color=6366F1" width="100%"/>
+<img src="https://img.shields.io/github/languages/top/Ledrix-Tech/hrm?style=flat-square&color=6366F1&labelColor=000000"/> <img src="https://img.shields.io/github/last-commit/Ledrix-Tech/hrm?style=flat-square&color=6366F1&labelColor=000000"/>
 
 <a href="https://github.com/Ledrix-Tech/hrm"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
@@ -163,7 +161,7 @@ My developer portfolio — work, resume, services, and reviews for freelance and
 
 `Portfolio` `Frontend` `Personal`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ledrix-Tech&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=000000&title_color=6366F1" width="100%"/>
+<img src="https://img.shields.io/github/languages/top/Ledrix-Tech/portfolio?style=flat-square&color=6366F1&labelColor=000000"/> <img src="https://img.shields.io/github/last-commit/Ledrix-Tech/portfolio?style=flat-square&color=6366F1&labelColor=000000"/>
 
 <a href="https://github.com/Ledrix-Tech/portfolio"><img src="https://img.shields.io/badge/Repo-000000?style=flat-square&logo=github&logoColor=6366F1"/></a>
 
@@ -188,8 +186,7 @@ My developer portfolio — work, resume, services, and reviews for freelance and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ledrix-Tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=6366F1&icon_color=6366F1" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ledrix-Tech&theme=tokyonight&hide_border=true&background=000000&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ledrix-Tech&theme=tokyonight&hide_border=true&background=000000&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="60%" />
 
 </div>
 
